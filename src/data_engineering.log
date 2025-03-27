@@ -1,0 +1,642 @@
+2025-03-19 11:31:38,985 - INFO - Starting data engineering pipeline...
+2025-03-19 11:31:38,987 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/featurecounts/PRJNA413568/feature_counts
+2025-03-19 11:31:38,987 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/featurecounts/PRJNA413568/merged_counts
+2025-03-19 11:31:38,987 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/featurecounts/PRJNA413568/preprocessed
+2025-03-19 11:31:38,988 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/featurecounts/PRJNA413568/hgnc_mapped
+2025-03-19 11:31:38,988 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/featurecounts/PRJNA413568/normalized
+2025-03-19 11:31:38,988 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/featurecounts/PRJNA413568/filtered
+2025-03-19 11:31:38,988 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/featurecounts/PRJNA413568/dea_results
+2025-03-19 11:31:38,988 - INFO - Step 1: Merging feature counts...
+2025-03-19 11:31:38,989 - ERROR - Error in data engineering pipeline: No project directories (PRJNA*) found in: /Users/mukulsherekar/pythonProject/DEGCNN/featurecounts/PRJNA413568/feature_counts
+2025-03-19 11:31:38,989 - ERROR - Error in data engineering pipeline: No project directories (PRJNA*) found in: /Users/mukulsherekar/pythonProject/DEGCNN/featurecounts/PRJNA413568/feature_counts
+2025-03-19 11:31:40,160 - INFO - Embedded R ended.
+2025-03-19 11:31:40,160 - INFO - Embedded R already ended.
+2025-03-19 11:44:41,589 - INFO - Starting data engineering pipeline...
+2025-03-19 11:44:41,590 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/feature_counts
+2025-03-19 11:44:41,591 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/merged_counts
+2025-03-19 11:44:41,591 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/preprocessed
+2025-03-19 11:44:41,591 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/hgnc_mapped
+2025-03-19 11:44:41,591 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/normalized
+2025-03-19 11:44:41,591 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/filtered
+2025-03-19 11:44:41,591 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/dea_results
+2025-03-19 11:44:41,591 - INFO - Step 1: Merging feature counts...
+2025-03-19 11:44:41,591 - ERROR - Error in data engineering pipeline: No project directories (PRJNA*) found in: /Users/mukulsherekar/pythonProject/DEGCNN/feature_counts
+2025-03-19 11:44:41,591 - ERROR - Error in data engineering pipeline: No project directories (PRJNA*) found in: /Users/mukulsherekar/pythonProject/DEGCNN/feature_counts
+2025-03-19 11:44:41,962 - INFO - Embedded R ended.
+2025-03-19 11:44:41,963 - INFO - Embedded R already ended.
+2025-03-19 12:06:02,081 - INFO - Starting data engineering pipeline...
+2025-03-19 12:06:02,081 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/featurecounts/PRJNA413568
+2025-03-19 12:06:02,082 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/counts
+2025-03-19 12:06:02,082 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/preprocessed
+2025-03-19 12:06:02,082 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/hgnc_mapped
+2025-03-19 12:06:02,082 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/normalized
+2025-03-19 12:06:02,082 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/filtered
+2025-03-19 12:06:02,082 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/dea_results
+2025-03-19 12:06:02,082 - INFO - Step 1: Merging feature counts...
+2025-03-19 12:06:02,083 - ERROR - Error in data engineering pipeline: No project directories (PRJNA*) found in: /Users/mukulsherekar/pythonProject/DEGCNN/featurecounts/PRJNA413568
+2025-03-19 12:06:02,084 - ERROR - Error in data engineering pipeline: No project directories (PRJNA*) found in: /Users/mukulsherekar/pythonProject/DEGCNN/featurecounts/PRJNA413568
+2025-03-19 12:06:02,412 - INFO - Embedded R ended.
+2025-03-19 12:06:02,412 - INFO - Embedded R already ended.
+2025-03-19 12:10:32,391 - INFO - Starting data engineering pipeline...
+2025-03-19 12:10:32,392 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/featurecounts
+2025-03-19 12:10:32,393 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/counts
+2025-03-19 12:10:32,393 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/preprocessed
+2025-03-19 12:10:32,393 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/hgnc_mapped
+2025-03-19 12:10:32,393 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/normalized
+2025-03-19 12:10:32,393 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/filtered
+2025-03-19 12:10:32,393 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/dea_results
+2025-03-19 12:10:32,393 - INFO - Step 1: Merging feature counts...
+2025-03-19 12:10:49,953 - ERROR - Error in data engineering pipeline: The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-03-19 12:10:49,965 - ERROR - Error in data engineering pipeline: The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-03-19 12:10:50,330 - INFO - Embedded R ended.
+2025-03-19 12:10:50,330 - INFO - Embedded R already ended.
+2025-03-19 12:15:59,434 - INFO - Starting data engineering pipeline...
+2025-03-19 12:15:59,435 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/featurecounts
+2025-03-19 12:15:59,435 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/counts
+2025-03-19 12:15:59,435 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/preprocessed
+2025-03-19 12:15:59,435 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/hgnc_mapped
+2025-03-19 12:15:59,435 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/normalized
+2025-03-19 12:15:59,436 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/filtered
+2025-03-19 12:15:59,436 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/dea_results
+2025-03-19 12:15:59,436 - INFO - Step 1: Merging feature counts...
+2025-03-19 12:16:15,956 - INFO - Step 2: Preprocessing merged counts...
+2025-03-19 12:16:17,374 - ERROR - Failed to preprocess merged counts
+2025-03-19 12:16:17,944 - INFO - Embedded R ended.
+2025-03-19 12:16:17,944 - INFO - Embedded R already ended.
+2025-03-19 12:27:17,476 - INFO - Starting data engineering pipeline...
+2025-03-19 12:27:17,477 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/featurecounts
+2025-03-19 12:27:17,477 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/counts
+2025-03-19 12:27:17,477 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/preprocessed
+2025-03-19 12:27:17,477 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/hgnc_mapped
+2025-03-19 12:27:17,477 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/normalized
+2025-03-19 12:27:17,477 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/filtered_counts
+2025-03-19 12:27:17,477 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/sdeg
+2025-03-19 12:27:17,477 - INFO - Step 1: Merging feature counts...
+2025-03-19 12:27:17,478 - ERROR - Failed to merge feature counts
+2025-03-19 12:27:17,804 - INFO - Embedded R ended.
+2025-03-19 12:27:17,804 - INFO - Embedded R already ended.
+2025-03-19 12:29:47,931 - INFO - Starting data engineering pipeline...
+2025-03-19 12:29:47,933 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/featurecounts
+2025-03-19 12:29:47,933 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/counts
+2025-03-19 12:29:47,933 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/preprocessed
+2025-03-19 12:29:47,933 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/hgnc_mapped
+2025-03-19 12:29:47,933 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/normalized
+2025-03-19 12:29:47,933 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/filtered_counts
+2025-03-19 12:29:47,933 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/sdeg
+2025-03-19 12:29:47,933 - INFO - Step 1: Merging feature counts...
+2025-03-19 12:29:47,934 - INFO - Step 2: Preprocessing merged counts...
+2025-03-19 12:29:48,740 - INFO - Step 3: Mapping HGNC symbols...
+2025-03-19 12:29:49,169 - ERROR - Failed to map HGNC symbols
+2025-03-19 12:29:49,715 - INFO - Embedded R ended.
+2025-03-19 12:29:49,716 - INFO - Embedded R already ended.
+2025-03-19 12:36:18,394 - INFO - Starting data engineering pipeline...
+2025-03-19 12:36:18,394 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/featurecounts
+2025-03-19 12:36:18,394 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/counts
+2025-03-19 12:36:18,395 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/preprocessed
+2025-03-19 12:36:18,395 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/hgnc_mapped
+2025-03-19 12:36:18,395 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/normalized
+2025-03-19 12:36:18,395 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/filtered_counts
+2025-03-19 12:36:18,395 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/sdeg
+2025-03-19 12:36:18,395 - INFO - Step 1: Merging feature counts...
+2025-03-19 12:36:18,396 - INFO - Step 2: Preprocessing merged counts...
+2025-03-19 12:36:18,798 - INFO - Step 3: Mapping HGNC symbols...
+2025-03-19 12:36:19,983 - ERROR - Failed to map HGNC symbols
+2025-03-19 12:36:20,573 - INFO - Embedded R ended.
+2025-03-19 12:36:20,573 - INFO - Embedded R already ended.
+2025-03-19 13:40:55,063 - INFO - Starting data engineering pipeline...
+2025-03-19 13:40:55,063 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/featurecounts
+2025-03-19 13:40:55,063 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/counts
+2025-03-19 13:40:55,063 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/preprocessed
+2025-03-19 13:40:55,063 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/hgnc_mapped
+2025-03-19 13:40:55,063 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/normalized
+2025-03-19 13:40:55,063 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/filtered_counts
+2025-03-19 13:40:55,063 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/sdeg
+2025-03-19 13:40:55,063 - INFO - Step 1: Merging feature counts...
+2025-03-19 13:40:55,064 - INFO - Step 2: Preprocessing merged counts...
+2025-03-19 13:40:55,064 - INFO - Step 3: Mapping HGNC symbols...
+2025-03-19 13:40:55,064 - ERROR - Failed to map HGNC symbols
+2025-03-19 13:40:55,385 - INFO - Embedded R ended.
+2025-03-19 13:40:55,385 - INFO - Embedded R already ended.
+2025-03-19 13:46:03,660 - INFO - Starting data engineering pipeline...
+2025-03-19 13:46:03,660 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/featurecounts
+2025-03-19 13:46:03,660 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/counts
+2025-03-19 13:46:03,660 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/preprocessed
+2025-03-19 13:46:03,660 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/hgnc_mapped
+2025-03-19 13:46:03,660 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/normalized
+2025-03-19 13:46:03,660 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/filtered_counts
+2025-03-19 13:46:03,660 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/sdeg
+2025-03-19 13:46:03,660 - INFO - Step 1: Merging feature counts...
+2025-03-19 13:46:03,661 - INFO - Step 2: Preprocessing merged counts...
+2025-03-19 13:46:03,661 - INFO - Step 3: Mapping HGNC symbols...
+2025-03-19 13:46:03,661 - INFO - Step 4: Normalizing counts...
+2025-03-19 13:46:50,735 - ERROR - Failed to normalize counts
+2025-03-19 13:46:51,073 - INFO - Embedded R ended.
+2025-03-19 13:46:51,073 - INFO - Embedded R already ended.
+2025-03-19 13:50:23,397 - INFO - Starting data engineering pipeline...
+2025-03-19 13:50:23,397 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/featurecounts
+2025-03-19 13:50:23,398 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/counts
+2025-03-19 13:50:23,398 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/preprocessed
+2025-03-19 13:50:23,398 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/hgnc_mapped
+2025-03-19 13:50:23,398 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/normalized
+2025-03-19 13:50:23,398 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/filtered_counts
+2025-03-19 13:50:23,398 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/sdeg
+2025-03-19 13:50:23,398 - INFO - Step 1: Merging feature counts...
+2025-03-19 13:50:23,398 - INFO - Step 2: Preprocessing merged counts...
+2025-03-19 13:50:23,398 - INFO - Step 3: Mapping HGNC symbols...
+2025-03-19 13:50:23,399 - INFO - Step 4: Normalizing counts...
+2025-03-19 13:50:23,399 - INFO - Step 5: Filtering counts by quantile...
+2025-03-19 13:50:24,692 - ERROR - Failed to filter counts
+2025-03-19 13:50:25,030 - INFO - Embedded R ended.
+2025-03-19 13:50:25,030 - INFO - Embedded R already ended.
+2025-03-19 13:52:35,426 - INFO - Starting data engineering pipeline...
+2025-03-19 13:52:35,426 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/featurecounts
+2025-03-19 13:52:35,427 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/counts
+2025-03-19 13:52:35,427 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/preprocessed
+2025-03-19 13:52:35,427 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/hgnc_mapped
+2025-03-19 13:52:35,427 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/normalized
+2025-03-19 13:52:35,427 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/filtered_counts
+2025-03-19 13:52:35,427 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/filtered_quantile
+2025-03-19 13:52:35,427 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/sdeg
+2025-03-19 13:52:35,427 - INFO - Step 1: Merging feature counts...
+2025-03-19 13:52:35,427 - INFO - Step 2: Preprocessing merged counts...
+2025-03-19 13:52:35,427 - INFO - Step 3: Mapping HGNC symbols...
+2025-03-19 13:52:35,427 - INFO - Step 4: Normalizing counts...
+2025-03-19 13:53:47,742 - INFO - Step 5: Filtering counts by quantile...
+2025-03-19 13:53:47,742 - ERROR - Failed to filter counts
+2025-03-19 13:53:48,087 - INFO - Embedded R ended.
+2025-03-19 13:53:48,087 - INFO - Embedded R already ended.
+2025-03-19 14:10:03,364 - INFO - Starting data engineering pipeline...
+2025-03-19 14:10:03,365 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/featurecounts
+2025-03-19 14:10:03,365 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/counts
+2025-03-19 14:10:03,365 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/preprocessed
+2025-03-19 14:10:03,365 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/hgnc_mapped
+2025-03-19 14:10:03,365 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/normalized
+2025-03-19 14:10:03,365 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/filtered_counts
+2025-03-19 14:10:03,365 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/filtered_quantile
+2025-03-19 14:10:03,365 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/sdeg
+2025-03-19 14:10:03,365 - INFO - Step 1: Merging feature counts...
+2025-03-19 14:10:20,006 - INFO - Step 2: Preprocessing merged counts...
+2025-03-19 14:10:20,008 - INFO - Step 3: Mapping HGNC symbols...
+2025-03-19 14:10:20,008 - INFO - Step 4: Normalizing counts...
+2025-03-19 14:10:20,008 - INFO - Step 5: Filtering counts by quantile...
+2025-03-19 14:10:20,008 - ERROR - Failed to filter counts
+2025-03-19 14:10:20,442 - INFO - Embedded R ended.
+2025-03-19 14:10:20,442 - INFO - Embedded R already ended.
+2025-03-19 14:19:54,745 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/featurecounts
+2025-03-19 14:19:54,745 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/counts
+2025-03-19 14:19:54,745 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/preprocessed
+2025-03-19 14:19:54,745 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/hgnc_mapped
+2025-03-19 14:19:54,745 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/normalized
+2025-03-19 14:19:54,746 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/filtered_counts
+2025-03-19 14:19:54,746 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/filtered_quantile
+2025-03-19 14:19:54,746 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/sdeg
+2025-03-19 14:19:54,746 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/logs
+2025-03-19 14:19:54,746 - INFO - Starting data engineering pipeline...
+2025-03-19 14:19:54,746 - INFO - Step 1: Merging feature counts...
+2025-03-19 14:20:11,276 - INFO - Step 2: Preprocessing merged counts...
+2025-03-19 14:20:11,278 - INFO - Step 3: Mapping HGNC symbols...
+2025-03-19 14:20:11,278 - INFO - Step 4: Normalizing counts...
+2025-03-19 14:20:11,278 - INFO - Step 5: Filtering counts by quantile...
+2025-03-19 14:20:11,279 - ERROR - Failed to filter counts
+2025-03-19 14:20:11,691 - INFO - Embedded R ended.
+2025-03-19 14:20:11,691 - INFO - Embedded R already ended.
+2025-03-19 14:21:24,353 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/featurecounts
+2025-03-19 14:21:24,353 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/counts
+2025-03-19 14:21:24,353 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/preprocessed
+2025-03-19 14:21:24,354 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/hgnc_mapped
+2025-03-19 14:21:24,354 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/normalized
+2025-03-19 14:21:24,354 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/filtered_counts
+2025-03-19 14:21:24,354 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/filtered_quantile
+2025-03-19 14:21:24,354 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/sdeg
+2025-03-19 14:21:24,354 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/logs
+2025-03-19 14:21:24,354 - INFO - Starting data engineering pipeline...
+2025-03-19 14:21:24,354 - INFO - Step 1: Merging feature counts...
+2025-03-19 14:21:40,923 - INFO - Step 2: Preprocessing merged counts...
+2025-03-19 14:21:40,924 - INFO - Step 3: Mapping HGNC symbols...
+2025-03-19 14:21:40,924 - INFO - Step 4: Normalizing counts...
+2025-03-19 14:21:40,924 - INFO - Step 5: Filtering counts by quantile...
+2025-03-19 14:21:40,924 - ERROR - Failed to filter counts
+2025-03-19 14:21:41,279 - INFO - Embedded R ended.
+2025-03-19 14:21:41,279 - INFO - Embedded R already ended.
+2025-03-19 14:26:29,352 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/featurecounts
+2025-03-19 14:26:29,352 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/counts
+2025-03-19 14:26:29,352 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/preprocessed
+2025-03-19 14:26:29,352 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/hgnc_mapped
+2025-03-19 14:26:29,353 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/normalized
+2025-03-19 14:26:29,353 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/filtered_counts
+2025-03-19 14:26:29,353 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/filtered_quantile
+2025-03-19 14:26:29,353 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/sdeg
+2025-03-19 14:26:29,353 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/logs
+2025-03-19 14:26:29,353 - INFO - Step 1: Merging feature counts...
+2025-03-19 14:26:29,677 - INFO - Embedded R ended.
+2025-03-19 14:26:29,677 - INFO - Embedded R already ended.
+2025-03-19 14:32:21,999 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/featurecounts
+2025-03-19 14:32:21,999 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/counts
+2025-03-19 14:32:21,999 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/preprocessed
+2025-03-19 14:32:21,999 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/hgnc_mapped
+2025-03-19 14:32:21,999 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/normalized
+2025-03-19 14:32:21,999 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/filtered_counts
+2025-03-19 14:32:21,999 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/filtered_quantile
+2025-03-19 14:32:21,999 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/sdeg
+2025-03-19 14:32:21,999 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/logs
+2025-03-19 14:32:22,000 - INFO - Step 1: Merging feature counts...
+2025-03-19 14:32:39,205 - INFO - Step 2: Preprocessing counts...
+2025-03-19 14:32:39,584 - INFO - Step 3: Mapping to HGNC...
+2025-03-19 14:32:39,907 - INFO - Step 4: Normalizing counts...
+2025-03-19 14:32:39,928 - ERROR - Failed to normalize counts
+2025-03-19 14:32:39,928 - ERROR - Data engineering failed.
+2025-03-19 14:32:40,299 - INFO - Embedded R ended.
+2025-03-19 14:32:40,299 - INFO - Embedded R already ended.
+2025-03-19 14:35:47,209 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/featurecounts
+2025-03-19 14:35:47,209 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/counts
+2025-03-19 14:35:47,210 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/preprocessed
+2025-03-19 14:35:47,210 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/hgnc_mapped
+2025-03-19 14:35:47,210 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/normalized
+2025-03-19 14:35:47,210 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/filtered_counts
+2025-03-19 14:35:47,210 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/filtered_quantile
+2025-03-19 14:35:47,210 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/sdeg
+2025-03-19 14:35:47,210 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/logs
+2025-03-19 14:35:47,210 - INFO - Step 1: Merging feature counts...
+2025-03-19 14:35:47,210 - INFO - Step 2: Preprocessing counts...
+2025-03-19 14:35:47,210 - INFO - Step 3: Mapping to HGNC...
+2025-03-19 14:35:47,210 - INFO - Step 4: Normalizing counts...
+2025-03-19 14:35:47,230 - ERROR - Failed to normalize counts
+2025-03-19 14:35:47,231 - ERROR - Data engineering failed.
+2025-03-19 14:35:47,554 - INFO - Embedded R ended.
+2025-03-19 14:35:47,554 - INFO - Embedded R already ended.
+2025-03-19 14:36:47,117 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/featurecounts
+2025-03-19 14:36:47,118 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/counts
+2025-03-19 14:36:47,118 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/preprocessed
+2025-03-19 14:36:47,118 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/hgnc_mapped
+2025-03-19 14:36:47,118 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/normalized
+2025-03-19 14:36:47,118 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/filtered_counts
+2025-03-19 14:36:47,118 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/filtered_quantile
+2025-03-19 14:36:47,119 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/sdeg
+2025-03-19 14:36:47,119 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/logs
+2025-03-19 14:36:47,119 - INFO - Step 1: Merging feature counts...
+2025-03-19 14:36:47,119 - INFO - Step 2: Preprocessing counts...
+2025-03-19 14:36:47,119 - INFO - Step 3: Mapping to HGNC...
+2025-03-19 14:36:47,119 - INFO - Step 4: Normalizing counts...
+2025-03-19 14:37:59,379 - INFO - Step 5: Filtering counts...
+2025-03-19 14:37:59,869 - ERROR - Failed to filter counts
+2025-03-19 14:37:59,869 - ERROR - Data engineering failed.
+2025-03-19 14:38:00,232 - INFO - Embedded R ended.
+2025-03-19 14:38:00,232 - INFO - Embedded R already ended.
+2025-03-19 14:45:30,193 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/featurecounts
+2025-03-19 14:45:30,193 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/counts
+2025-03-19 14:45:30,193 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/preprocessed
+2025-03-19 14:45:30,193 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/hgnc_mapped
+2025-03-19 14:45:30,193 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/normalized
+2025-03-19 14:45:30,193 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/filtered_counts
+2025-03-19 14:45:30,193 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/filtered_quantile
+2025-03-19 14:45:30,193 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/sdeg
+2025-03-19 14:45:30,193 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/logs
+2025-03-19 14:45:30,193 - INFO - Step 1: Merging feature counts...
+2025-03-19 14:45:30,193 - INFO - Step 2: Preprocessing counts...
+2025-03-19 14:45:30,193 - INFO - Step 3: Mapping to HGNC...
+2025-03-19 14:45:30,195 - INFO - Step 4: Normalizing counts...
+2025-03-19 14:46:43,177 - INFO - Step 5: Filtering counts...
+2025-03-19 14:46:43,177 - ERROR - Failed to filter counts
+2025-03-19 14:46:43,177 - ERROR - Data engineering failed.
+2025-03-19 14:46:43,498 - INFO - Embedded R ended.
+2025-03-19 14:46:43,498 - INFO - Embedded R already ended.
+2025-03-19 14:55:18,699 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/featurecounts
+2025-03-19 14:55:18,699 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/counts
+2025-03-19 14:55:18,699 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/preprocessed
+2025-03-19 14:55:18,699 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/hgnc_mapped
+2025-03-19 14:55:18,699 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/normalized
+2025-03-19 14:55:18,699 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/filtered_counts
+2025-03-19 14:55:18,699 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/filtered_quantile
+2025-03-19 14:55:18,699 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/sdeg
+2025-03-19 14:55:18,699 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/logs
+2025-03-19 14:55:18,700 - INFO - Step 1: Merging feature counts...
+2025-03-19 14:55:18,700 - INFO - Step 2: Preprocessing counts...
+2025-03-19 14:55:18,701 - INFO - Step 3: Mapping to HGNC...
+2025-03-19 14:55:18,701 - INFO - Step 4: Normalizing counts...
+2025-03-19 14:56:15,819 - INFO - Embedded R ended.
+2025-03-19 14:56:15,819 - INFO - Embedded R already ended.
+2025-03-19 14:59:54,651 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/featurecounts
+2025-03-19 14:59:54,652 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/counts
+2025-03-19 14:59:54,652 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/preprocessed
+2025-03-19 14:59:54,652 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/hgnc_mapped
+2025-03-19 14:59:54,652 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/normalized
+2025-03-19 14:59:54,652 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/filtered_counts
+2025-03-19 14:59:54,653 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/filtered_quantile
+2025-03-19 14:59:54,653 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/sdeg
+2025-03-19 14:59:54,653 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/logs
+2025-03-19 14:59:54,654 - INFO - Step 1: Merging feature counts...
+2025-03-19 14:59:54,654 - INFO - Step 2: Preprocessing counts...
+2025-03-19 14:59:54,655 - INFO - Step 3: Mapping to HGNC...
+2025-03-19 14:59:54,655 - INFO - Step 4: Normalizing counts...
+2025-03-19 15:01:24,241 - INFO - Step 5: Filtering counts...
+2025-03-19 15:01:26,193 - INFO - Step 6: Performing differential expression analysis...
+2025-03-19 15:01:26,193 - ERROR - Failed to perform differential expression analysis
+2025-03-19 15:01:26,193 - ERROR - Data engineering failed.
+2025-03-19 15:01:26,671 - INFO - Embedded R ended.
+2025-03-19 15:01:26,671 - INFO - Embedded R already ended.
+2025-03-19 15:15:48,807 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/featurecounts
+2025-03-19 15:15:48,808 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/counts
+2025-03-19 15:15:48,808 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/preprocessed
+2025-03-19 15:15:48,808 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/hgnc_mapped
+2025-03-19 15:15:48,808 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/normalized
+2025-03-19 15:15:48,808 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/filtered_counts
+2025-03-19 15:15:48,808 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/filtered_quantile
+2025-03-19 15:15:48,808 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/sdeg
+2025-03-19 15:15:48,808 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/logs
+2025-03-19 15:15:48,808 - ERROR - Error in data engineering pipeline: name 'setup_logging' is not defined
+2025-03-19 15:15:49,130 - INFO - Embedded R ended.
+2025-03-19 15:15:49,130 - INFO - Embedded R already ended.
+2025-03-19 15:20:03,789 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/featurecounts
+2025-03-19 15:20:03,789 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/counts
+2025-03-19 15:20:03,789 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/preprocessed
+2025-03-19 15:20:03,790 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/hgnc_mapped
+2025-03-19 15:20:03,790 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/normalized
+2025-03-19 15:20:03,790 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/filtered_counts
+2025-03-19 15:20:03,790 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/filtered_quantile
+2025-03-19 15:20:03,790 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/sdeg
+2025-03-19 15:20:03,790 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/logs
+2025-03-19 15:20:03,790 - INFO - Step 1: Merging feature counts...
+2025-03-19 15:20:04,118 - INFO - Embedded R ended.
+2025-03-19 15:20:04,118 - INFO - Embedded R already ended.
+2025-03-19 15:21:38,191 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/featurecounts
+2025-03-19 15:21:38,192 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/counts
+2025-03-19 15:21:38,192 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/preprocessed
+2025-03-19 15:21:38,192 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/hgnc_mapped
+2025-03-19 15:21:38,192 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/normalized
+2025-03-19 15:21:38,192 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/filtered_counts
+2025-03-19 15:21:38,192 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/filtered_quantile
+2025-03-19 15:21:38,192 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/sdeg
+2025-03-19 15:21:38,192 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/logs
+2025-03-19 15:21:38,192 - INFO - Step 1: Merging feature counts...
+2025-03-19 15:21:38,536 - INFO - Embedded R ended.
+2025-03-19 15:21:38,536 - INFO - Embedded R already ended.
+2025-03-19 15:22:22,386 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/featurecounts
+2025-03-19 15:22:22,386 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/counts
+2025-03-19 15:22:22,386 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/preprocessed
+2025-03-19 15:22:22,386 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/hgnc_mapped
+2025-03-19 15:22:22,386 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/normalized
+2025-03-19 15:22:22,386 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/filtered_counts
+2025-03-19 15:22:22,386 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/filtered_quantile
+2025-03-19 15:22:22,387 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/sdeg
+2025-03-19 15:22:22,387 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/logs
+2025-03-19 15:22:22,387 - INFO - Step 1: Merging feature counts...
+2025-03-19 15:22:22,715 - INFO - Embedded R ended.
+2025-03-19 15:22:22,716 - INFO - Embedded R already ended.
+2025-03-19 15:24:19,201 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/featurecounts
+2025-03-19 15:24:19,201 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/counts
+2025-03-19 15:24:19,201 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/preprocessed
+2025-03-19 15:24:19,201 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/hgnc_mapped
+2025-03-19 15:24:19,201 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/normalized
+2025-03-19 15:24:19,201 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/filtered_counts
+2025-03-19 15:24:19,201 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/filtered_quantile
+2025-03-19 15:24:19,202 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/sdeg
+2025-03-19 15:24:19,202 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN/logs
+2025-03-19 15:24:19,202 - INFO - Step 1: Merging feature counts...
+2025-03-19 15:24:19,526 - INFO - Embedded R ended.
+2025-03-19 15:24:19,527 - INFO - Embedded R already ended.
+2025-03-19 15:25:51,568 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN
+2025-03-19 15:25:51,570 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/counts
+2025-03-19 15:25:51,570 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/preprocessed
+2025-03-19 15:25:51,570 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/hgnc_mapped
+2025-03-19 15:25:51,570 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/normalized
+2025-03-19 15:25:51,570 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/filtered_counts
+2025-03-19 15:25:51,570 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/filtered_quantile
+2025-03-19 15:25:51,570 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/sdeg
+2025-03-19 15:25:51,571 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/logs
+2025-03-19 15:25:51,571 - INFO - Step 1: Merging feature counts...
+2025-03-19 15:26:20,850 - INFO - Step 2: Preprocessing counts...
+2025-03-19 15:26:22,500 - INFO - Step 3: Mapping to HGNC...
+2025-03-19 15:26:23,948 - INFO - Step 4: Normalizing counts...
+2025-03-19 15:30:31,537 - INFO - Step 5: Filtering counts...
+2025-03-19 15:30:35,475 - INFO - Step 6: Performing differential expression analysis...
+2025-03-19 15:30:37,216 - WARNING - R[write to console]: Batch correction skipped since no factors provided
+
+2025-03-19 15:30:37,216 - WARNING - R[write to console]: ----------------------- DEA -------------------------------
+
+2025-03-19 15:30:37,216 - WARNING - R[write to console]: o 18 samples in Cond1type Control
+
+2025-03-19 15:30:37,216 - WARNING - R[write to console]: o 12 samples in Cond2type Disease
+
+2025-03-19 15:30:37,216 - WARNING - R[write to console]: o 20236 features as miRNA or genes 
+
+2025-03-19 15:30:37,216 - WARNING - R[write to console]: This may take some minutes...
+
+2025-03-19 15:30:40,044 - WARNING - R[write to console]: ----------------------- END DEA -------------------------------
+
+2025-03-19 15:30:40,546 - ERROR - Failed to perform differential expression analysis
+2025-03-19 15:30:40,546 - ERROR - Data engineering failed.
+2025-03-19 15:30:40,881 - INFO - Embedded R ended.
+2025-03-19 15:30:40,881 - INFO - Embedded R already ended.
+2025-03-19 15:48:48,370 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN
+2025-03-19 15:48:48,371 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/counts
+2025-03-19 15:48:48,371 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/preprocessed
+2025-03-19 15:48:48,371 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/hgnc_mapped
+2025-03-19 15:48:48,371 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/normalized
+2025-03-19 15:48:48,371 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/filtered_counts
+2025-03-19 15:48:48,371 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/filtered_quantile
+2025-03-19 15:48:48,371 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/sdeg
+2025-03-19 15:48:48,371 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/logs
+2025-03-19 15:48:48,371 - INFO - Step 1: Merging feature counts...
+2025-03-19 15:48:48,372 - INFO - Step 2: Preprocessing counts...
+2025-03-19 15:48:48,372 - INFO - Step 3: Mapping to HGNC...
+2025-03-19 15:48:48,372 - INFO - Step 4: Normalizing counts...
+2025-03-19 15:48:48,372 - INFO - Step 5: Filtering counts...
+2025-03-19 15:48:48,372 - INFO - Step 6: Performing differential expression analysis...
+2025-03-19 15:48:49,993 - WARNING - R[write to console]: Batch correction skipped since no factors provided
+
+2025-03-19 15:48:49,993 - WARNING - R[write to console]: ----------------------- DEA -------------------------------
+
+2025-03-19 15:48:49,993 - WARNING - R[write to console]: o 18 samples in Cond1type Control
+
+2025-03-19 15:48:49,993 - WARNING - R[write to console]: o 12 samples in Cond2type Disease
+
+2025-03-19 15:48:49,993 - WARNING - R[write to console]: o 20236 features as miRNA or genes 
+
+2025-03-19 15:48:49,993 - WARNING - R[write to console]: This may take some minutes...
+
+2025-03-19 15:48:52,822 - WARNING - R[write to console]: ----------------------- END DEA -------------------------------
+
+2025-03-19 15:48:53,305 - ERROR - Failed to perform differential expression analysis
+2025-03-19 15:48:53,305 - ERROR - Data engineering failed.
+2025-03-19 15:48:53,648 - INFO - Embedded R ended.
+2025-03-19 15:48:53,648 - INFO - Embedded R already ended.
+2025-03-19 15:53:52,127 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN
+2025-03-19 15:53:52,127 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/counts
+2025-03-19 15:53:52,128 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/preprocessed
+2025-03-19 15:53:52,128 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/hgnc_mapped
+2025-03-19 15:53:52,128 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/normalized
+2025-03-19 15:53:52,128 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/filtered_counts
+2025-03-19 15:53:52,128 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/filtered_quantile
+2025-03-19 15:53:52,128 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/sdeg
+2025-03-19 15:53:52,128 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/logs
+2025-03-19 15:53:52,128 - INFO - Step 1: Merging feature counts...
+2025-03-19 15:53:52,128 - INFO - Step 2: Preprocessing counts...
+2025-03-19 15:53:52,128 - INFO - Step 3: Mapping to HGNC...
+2025-03-19 15:53:52,129 - INFO - Step 4: Normalizing counts...
+2025-03-19 15:53:52,129 - INFO - Step 5: Filtering counts...
+2025-03-19 15:53:52,129 - INFO - Step 6: Performing differential expression analysis...
+2025-03-19 15:53:53,094 - WARNING - R[write to console]: Batch correction skipped since no factors provided
+
+2025-03-19 15:53:53,095 - WARNING - R[write to console]: ----------------------- DEA -------------------------------
+
+2025-03-19 15:53:53,095 - WARNING - R[write to console]: o 5 samples in Cond1type Control
+
+2025-03-19 15:53:53,095 - WARNING - R[write to console]: o 5 samples in Cond2type Disease
+
+2025-03-19 15:53:53,095 - WARNING - R[write to console]: o 20236 features as miRNA or genes 
+
+2025-03-19 15:53:53,095 - WARNING - R[write to console]: This may take some minutes...
+
+2025-03-19 15:53:54,308 - WARNING - R[write to console]: ----------------------- END DEA -------------------------------
+
+2025-03-19 15:53:54,621 - INFO - Pipeline completed successfully!
+2025-03-19 15:53:54,621 - INFO - Data engineering completed successfully!
+2025-03-19 15:53:54,967 - INFO - Embedded R ended.
+2025-03-19 15:53:54,967 - INFO - Embedded R already ended.
+2025-03-19 16:02:01,960 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN
+2025-03-19 16:02:01,960 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/counts
+2025-03-19 16:02:01,960 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/preprocessed
+2025-03-19 16:02:01,960 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/hgnc_mapped
+2025-03-19 16:02:01,960 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/normalized
+2025-03-19 16:02:01,960 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/filtered_counts
+2025-03-19 16:02:01,961 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/filtered_quantile
+2025-03-19 16:02:01,961 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/sdeg
+2025-03-19 16:02:01,961 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/logs
+2025-03-19 16:02:01,961 - INFO - Step 1: Merging feature counts...
+2025-03-19 16:02:01,961 - INFO - Step 2: Preprocessing counts...
+2025-03-19 16:02:01,961 - INFO - Step 3: Mapping to HGNC...
+2025-03-19 16:02:01,961 - INFO - Step 4: Normalizing counts...
+2025-03-19 16:02:01,961 - INFO - Step 5: Filtering counts...
+2025-03-19 16:02:01,961 - INFO - Step 6: Performing differential expression analysis...
+2025-03-19 16:02:02,151 - ERROR - Failed to perform differential expression analysis
+2025-03-19 16:02:02,151 - ERROR - Data engineering failed.
+2025-03-19 16:02:02,490 - INFO - Embedded R ended.
+2025-03-19 16:02:02,490 - INFO - Embedded R already ended.
+2025-03-19 16:06:09,208 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN
+2025-03-19 16:06:09,208 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/counts
+2025-03-19 16:06:09,208 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/preprocessed
+2025-03-19 16:06:09,208 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/hgnc_mapped
+2025-03-19 16:06:09,208 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/normalized
+2025-03-19 16:06:09,208 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/filtered_counts
+2025-03-19 16:06:09,208 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/filtered_quantile
+2025-03-19 16:06:09,208 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/sdeg
+2025-03-19 16:06:09,208 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/logs
+2025-03-19 16:06:09,209 - INFO - Step 1: Merging feature counts...
+2025-03-19 16:06:09,212 - INFO - Step 2: Preprocessing counts...
+2025-03-19 16:06:09,212 - INFO - Step 3: Mapping to HGNC...
+2025-03-19 16:06:09,212 - INFO - Step 4: Normalizing counts...
+2025-03-19 16:06:09,212 - INFO - Step 5: Filtering counts...
+2025-03-19 16:06:09,212 - INFO - Step 6: Performing differential expression analysis...
+2025-03-19 16:06:09,402 - ERROR - Failed to perform differential expression analysis
+2025-03-19 16:06:09,402 - ERROR - Data engineering failed.
+2025-03-19 16:06:09,733 - INFO - Embedded R ended.
+2025-03-19 16:06:09,733 - INFO - Embedded R already ended.
+2025-03-19 16:14:43,135 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN
+2025-03-19 16:14:43,136 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/counts
+2025-03-19 16:14:43,136 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/preprocessed
+2025-03-19 16:14:43,136 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/hgnc_mapped
+2025-03-19 16:14:43,136 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/normalized
+2025-03-19 16:14:43,136 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/filtered_counts
+2025-03-19 16:14:43,136 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/filtered_quantile
+2025-03-19 16:14:43,136 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/sdeg
+2025-03-19 16:14:43,136 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/logs
+2025-03-19 16:14:43,136 - INFO - Step 1: Merging feature counts...
+2025-03-19 16:14:43,137 - INFO - Step 2: Preprocessing counts...
+2025-03-19 16:14:43,137 - INFO - Step 3: Mapping to HGNC...
+2025-03-19 16:14:43,137 - INFO - Step 4: Normalizing counts...
+2025-03-19 16:14:43,137 - INFO - Step 5: Filtering counts...
+2025-03-19 16:14:43,137 - INFO - Step 6: Performing differential expression analysis...
+2025-03-19 16:14:43,333 - ERROR - Failed to perform differential expression analysis
+2025-03-19 16:14:43,333 - ERROR - Data engineering failed.
+2025-03-19 16:14:43,660 - INFO - Embedded R ended.
+2025-03-19 16:14:43,660 - INFO - Embedded R already ended.
+2025-03-19 16:35:24,007 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN
+2025-03-19 16:35:24,008 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/counts
+2025-03-19 16:35:24,008 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/preprocessed
+2025-03-19 16:35:24,008 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/hgnc_mapped
+2025-03-19 16:35:24,008 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/normalized
+2025-03-19 16:35:24,008 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/filtered_counts
+2025-03-19 16:35:24,008 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/filtered_quantile
+2025-03-19 16:35:24,008 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/sdeg
+2025-03-19 16:35:24,008 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/logs
+2025-03-19 16:35:24,008 - INFO - Step 1: Merging feature counts...
+2025-03-19 16:35:24,008 - INFO - Step 2: Preprocessing counts...
+2025-03-19 16:35:24,009 - INFO - Step 3: Mapping to HGNC...
+2025-03-19 16:35:24,009 - INFO - Step 4: Normalizing counts...
+2025-03-19 16:35:24,009 - INFO - Step 5: Filtering counts...
+2025-03-19 16:35:24,009 - INFO - Step 6: Performing differential expression analysis...
+2025-03-19 16:35:24,203 - ERROR - Failed to perform differential expression analysis
+2025-03-19 16:35:24,203 - ERROR - Data engineering failed.
+2025-03-19 16:35:24,529 - INFO - Embedded R ended.
+2025-03-19 16:35:24,529 - INFO - Embedded R already ended.
+2025-03-19 16:39:01,773 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN
+2025-03-19 16:39:01,773 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/counts
+2025-03-19 16:39:01,773 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/preprocessed
+2025-03-19 16:39:01,773 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/hgnc_mapped
+2025-03-19 16:39:01,773 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/normalized
+2025-03-19 16:39:01,773 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/filtered_counts
+2025-03-19 16:39:01,773 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/filtered_quantile
+2025-03-19 16:39:01,773 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/sdeg
+2025-03-19 16:39:01,773 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/logs
+2025-03-19 16:39:01,774 - INFO - Step 1: Merging feature counts...
+2025-03-19 16:39:01,774 - INFO - Step 2: Preprocessing counts...
+2025-03-19 16:39:01,774 - INFO - Step 3: Mapping to HGNC...
+2025-03-19 16:39:01,774 - INFO - Step 4: Normalizing counts...
+2025-03-19 16:39:01,774 - INFO - Step 5: Filtering counts...
+2025-03-19 16:39:01,774 - INFO - Step 6: Performing differential expression analysis...
+2025-03-19 16:39:01,774 - INFO - Pipeline completed successfully!
+2025-03-19 16:39:01,775 - INFO - Data engineering completed successfully!
+2025-03-19 16:39:02,097 - INFO - Embedded R ended.
+2025-03-19 16:39:02,097 - INFO - Embedded R already ended.
+2025-03-19 16:41:47,371 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN
+2025-03-19 16:41:47,372 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/counts
+2025-03-19 16:41:47,372 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/preprocessed
+2025-03-19 16:41:47,372 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/hgnc_mapped
+2025-03-19 16:41:47,372 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/normalized
+2025-03-19 16:41:47,372 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/filtered_counts
+2025-03-19 16:41:47,372 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/filtered_quantile
+2025-03-19 16:41:47,372 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/sdeg
+2025-03-19 16:41:47,372 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/logs
+2025-03-19 16:41:47,372 - INFO - Step 1: Merging feature counts...
+2025-03-19 16:41:47,373 - INFO - Step 2: Preprocessing counts...
+2025-03-19 16:41:47,373 - INFO - Step 3: Mapping to HGNC...
+2025-03-19 16:41:47,373 - INFO - Step 4: Normalizing counts...
+2025-03-19 16:41:47,373 - INFO - Step 5: Filtering counts...
+2025-03-19 16:41:47,373 - INFO - Step 6: Performing differential expression analysis...
+2025-03-19 16:41:48,059 - WARNING - R[write to console]: Batch correction skipped since no factors provided
+
+2025-03-19 16:41:48,059 - WARNING - R[write to console]: ----------------------- DEA -------------------------------
+
+2025-03-19 16:41:48,059 - WARNING - R[write to console]: o 4 samples in Cond1type Control
+
+2025-03-19 16:41:48,059 - WARNING - R[write to console]: o 4 samples in Cond2type Disease
+
+2025-03-19 16:41:48,060 - WARNING - R[write to console]: o 19566 features as miRNA or genes 
+
+2025-03-19 16:41:48,060 - WARNING - R[write to console]: This may take some minutes...
+
+2025-03-19 16:41:49,221 - WARNING - R[write to console]: ----------------------- END DEA -------------------------------
+
+2025-03-19 16:41:49,493 - INFO - Pipeline completed successfully!
+2025-03-19 16:41:49,494 - INFO - Data engineering completed successfully!
+2025-03-19 16:41:49,831 - INFO - Embedded R ended.
+2025-03-19 16:41:49,831 - INFO - Embedded R already ended.
+2025-03-19 16:49:15,246 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/DEGCNN
+2025-03-19 16:49:15,248 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/counts
+2025-03-19 16:49:15,248 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/preprocessed
+2025-03-19 16:49:15,248 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/hgnc_mapped
+2025-03-19 16:49:15,248 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/normalized
+2025-03-19 16:49:15,248 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/filtered_counts
+2025-03-19 16:49:15,248 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/filtered_quantile
+2025-03-19 16:49:15,248 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/sdeg
+2025-03-19 16:49:15,248 - INFO - Created/verified directory: /Users/mukulsherekar/pythonProject/logs
+2025-03-19 16:49:15,249 - INFO - Step 1: Merging feature counts...
+2025-03-19 16:49:15,249 - INFO - Step 2: Preprocessing counts...
+2025-03-19 16:49:15,249 - INFO - Step 3: Mapping to HGNC...
+2025-03-19 16:49:15,249 - INFO - Step 4: Normalizing counts...
+2025-03-19 16:49:15,249 - INFO - Step 5: Filtering counts...
+2025-03-19 16:49:15,249 - INFO - Step 6: Performing differential expression analysis...
+2025-03-19 16:49:15,250 - INFO - Pipeline completed successfully!
+2025-03-19 16:49:15,250 - INFO - Data engineering completed successfully!
+2025-03-19 16:49:15,577 - INFO - Embedded R ended.
+2025-03-19 16:49:15,577 - INFO - Embedded R already ended.
