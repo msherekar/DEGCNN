@@ -1,5 +1,5 @@
-# Reproduction of DEGNext
-# RRNA-seq Data Engineering and Analysis Pipeline using CNN
+# Reproduction of DEGNext by Kakati et al
+# RNA-seq Data Engineering and Analysis Pipeline using CNN
 
 This directory contains a comprehensive pipeline for processing RNA-seq data, performing differential expression analysis, and preparing datasets for machine learning applications.
 
